@@ -38,6 +38,6 @@ Upstream oil and gas 35%; refining and petrochemicals 28%; retail and marketing 
 - [Source and assumptions](references/source-and-assumptions.md) — reconciliations and evidence status.
 
 ## Operating policy
-**GitHub is the source control tower.** Notion is the downstream knowledge-management reading experience; LMS embeds GitHub/Notion links. Automatic synchronization is **not configured**. The linked original Notion page is preserved and has not been overwritten.
+**GitHub is the source control tower.** Notion is the downstream knowledge-management reading experience; LMS embeds GitHub/Notion links. A daily connector-assisted reconciliation task is configured with [revision baselines and conflict rules](sync/README.md). Manual transfers have been verified; unattended execution and failure recovery remain unverified. The linked original Notion research is preserved. See the [delivery report](delivery-report-2026-10-19.md).
 
 All simulation characters are fictional. Any references to actual SAP platforms in future derived work are learning examples, not confirmed OmniVerse implementations.

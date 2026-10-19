@@ -4,7 +4,7 @@
 
 ## Case studies
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
+- [OmniVibe Consumer Ltd.](omnivibe-consumer-ltd/README.md) — fictional enterprise transformation master, workforce architecture, personas, simulations and seven derived streams.
 
 ## Case study template
 

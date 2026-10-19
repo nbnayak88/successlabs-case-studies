@@ -11,6 +11,11 @@
       "id": "OMF",
       "root": "02-materials/omniforge-materials-ltd",
       "page_id": "9e83f25576814c87998709be3338092b"
+    },
+    {
+      "id": "OVC",
+      "root": "04-consumer-discretionary/omnivibe-consumer-ltd",
+      "page_id": "5a1022d7db634a10a7c5d00318e0c809"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

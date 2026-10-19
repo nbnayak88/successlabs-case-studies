@@ -1,6 +1,6 @@
 # Seven Derived Learning Streams — OmniVerse
 
-The [22-section master](../master/README.md) owns enterprise facts and transformation decisions. These streams are **initial derivation blueprints**, not completed course curricula.
+The [22-section master](../master/README.md) owns enterprise facts and transformation decisions. Workforce/HR now links to a detailed 13-case studio; the other six streams remain **initial derivation blueprints**, not completed course curricula.
 
 | Stream | Fictional sponsor(s) | Master references |
 |---|---|---|

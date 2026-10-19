@@ -1,6 +1,8 @@
 # OmniVerse — Workforce / HR Derived Case
 
-**Status:** Initial scope blueprint; detailed domain sprints and learning labs are future work.
+**Status:** HR studio expanded into one general use case and 13 source-linked domain cases. Delivery experiments and operational outcomes remain unexecuted.
+
+Start with the [HR Transformation Studio](hr/README.md), then select one domain case. Original Notion research and namespaced domain personas are preserved; unresolved source differences are held in the [HR source register](hr/source-register.md).
 
 - **Fictional sponsor(s):** OVE-P01 CHRO Nina Kohli; OVE-P07 Benefits Dennis Abbott; OVE-P08 Rewards Priyanka Rao.
 - **Inherited master sections:** OVE-M03, OVE-M11, OVE-M18, OVE-M20.

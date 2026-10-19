@@ -18,4 +18,4 @@
 | OVE-Q08 | Source includes technology/vendor product examples. | Treat as architecture options, not client-approved implementation decisions. |
 
 ## Confidentiality
-Do not copy proprietary customer/employee records, real project screenshots, internal endpoints, or private financials into this public teaching repository. Notion remains a preserved original until downstream narrative update is approved.
+Do not copy proprietary customer/employee records, real project screenshots, internal endpoints, or private financials into this public teaching repository. Notion's original research remains preserved beneath the reconciled narrative. See the [delivery report](../delivery-report-2026-10-19.md) and [sync protocol](../sync/README.md).

@@ -4,7 +4,7 @@
 
 ## Case studies
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
+- [OmniForge Materials Ltd.](omniforge-materials-ltd/README.md) — fictional enterprise transformation master, personas, simulations, seven derived streams and preserved Notion research.
 
 ## Case study template
 

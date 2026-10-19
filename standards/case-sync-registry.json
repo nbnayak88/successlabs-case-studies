@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "automation_id": "6ad5debc43888191a1886a433fee82c4",
+  "cases": [
+    {
+      "id": "OVE",
+      "root": "01-energy/omniverse-energy-ltd",
+      "page_id": "377ce6de608980daae89e74da8236287"
+    },
+    {
+      "id": "OMF",
+      "root": "02-materials/omniforge-materials-ltd",
+      "page_id": "9e83f25576814c87998709be3338092b"
+    }
+  ],
+  "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."
+}

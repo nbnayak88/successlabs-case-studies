@@ -4,7 +4,7 @@
 
 ## Case studies
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
+- [OmniDaily Consumer Goods Ltd.](omnidaily-consumer-goods-ltd/README.md) — fictional Consumer Staples transformation master, personas, simulations and seven stream blueprints.
 
 ## Case study template
 

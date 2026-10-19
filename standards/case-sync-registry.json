@@ -16,6 +16,11 @@
       "id": "OVC",
       "root": "04-consumer-discretionary/omnivibe-consumer-ltd",
       "page_id": "5a1022d7db634a10a7c5d00318e0c809"
+    },
+    {
+      "id": "ODG",
+      "root": "05-consumer-staples/omnidaily-consumer-goods-ltd",
+      "page_id": "28a329356ea6481dafbcc579c2463add"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

@@ -26,6 +26,11 @@
       "id": "OHS",
       "root": "06-health-care/omnihealth-systems-ltd",
       "page_id": "48ae8460518643559ed65381fb89b3fe"
+    },
+    {
+      "id": "OCF",
+      "root": "07-financials/omnicapital-financial-group-ltd",
+      "page_id": "ad26929126a047afa591f9c7d75cbab9"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

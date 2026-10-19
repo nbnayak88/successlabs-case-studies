@@ -4,7 +4,7 @@
 
 ## Case studies
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
+- [OmniCapital Financial Group Ltd.](omnicapital-financial-group-ltd/README.md) — fictional transformation master, personas, simulations and seven learning streams.
 
 ## Case study template
 

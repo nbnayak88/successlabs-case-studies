@@ -3,6 +3,10 @@
 > **Fictional learning enterprise · GICS 03 Industrials · Version 1.0 · 19 October 2026**
 > All people, company information, budgets, results and events are fictional or illustrative. This is not an account of an actual client. The case is designed for enterprise transformation, Yoodli AI role-play, certification preparation and interviews.
 
+## Executive quick access
+- [Executive one-page case study](executive-one-pager.md) — board-ready case synopsis.
+- [Resources registry](resources/README.md) — Gamma AI, Kahoot, Canva, Yoodli, PPT, Notion and LMS placeholders.
+
 ## Start here
 1. [Hero story](hero-story.md) — the board-level transformation narrative and inciting incident.
 2. [Persona directory](personas/README.md) — fictional stakeholder identities, incentives, objections and conversation prompts.

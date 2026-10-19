@@ -1,11 +1,11 @@
-# Industrials
+# Industrials — GICS03
 
-**GICS sector 03** — SuccessLabs Academy case-study library.
+SuccessLabs Academy fictional enterprise case-study library for the Industrials sector.
 
-## Case studies
+## Published case studies
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
+- **[OmniWorks Industrial Systems Ltd. — Business Transformation Master](./omniworks-industrial-systems/)** — canonical 22-section transformation case, fictional hero story, 15 personas, 10 Yoodli-ready simulation scenarios and seven derived learning streams.
 
-## Case study template
+## Governance
 
-Each case study should document business context, business lines, capabilities, architecture, transformation initiatives, learning labs, and references. Mark fictional or illustrative details explicitly.
+GitHub is the canonical source control tower. Notion is a planned downstream knowledge management hub; LMS experiences will embed GitHub or Notion resources. Synchronization is not yet configured.

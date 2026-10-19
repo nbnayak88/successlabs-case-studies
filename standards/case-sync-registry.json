@@ -21,6 +21,11 @@
       "id": "ODG",
       "root": "05-consumer-staples/omnidaily-consumer-goods-ltd",
       "page_id": "28a329356ea6481dafbcc579c2463add"
+    },
+    {
+      "id": "OHS",
+      "root": "06-health-care/omnihealth-systems-ltd",
+      "page_id": "48ae8460518643559ed65381fb89b3fe"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

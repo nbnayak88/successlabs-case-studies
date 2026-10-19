@@ -4,7 +4,7 @@
 
 ## Case studies
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
+- [OmniSpace Real Estate Ltd.](omnispace-real-estate-ltd/README.md) — fictional transformation master, personas, simulations and seven learning streams.
 
 ## Case study template
 

@@ -46,6 +46,11 @@
       "id": "OGU",
       "root": "10-utilities/omnigrid-utilities-ltd",
       "page_id": "54586cda6f744a6f8e0d96f674a7ddb0"
+    },
+    {
+      "id": "OSP",
+      "root": "11-real-estate/omnispace-real-estate-ltd",
+      "page_id": "979c5b1e1e7d4664a1c64f2874007908"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

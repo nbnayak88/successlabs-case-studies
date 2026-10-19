@@ -31,6 +31,11 @@
       "id": "OCF",
       "root": "07-financials/omnicapital-financial-group-ltd",
       "page_id": "ad26929126a047afa591f9c7d75cbab9"
+    },
+    {
+      "id": "OTS",
+      "root": "08-information-technology/omnitech-solutions-ltd",
+      "page_id": "3f57a051ff8740d3bc46b102e2e7f211"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

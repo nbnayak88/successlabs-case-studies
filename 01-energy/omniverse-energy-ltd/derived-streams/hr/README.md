@@ -33,3 +33,6 @@ Anika Sharma owns the employment foundation. Arjun Malhotra secures fairly asses
 [Operating standard](operating-standard.md) · [Sources and held conflicts](source-register.md) · [Reconciliation manifest](reconciliation.json)
 
 Read the 13 source cases as detailed learning domains, not 13 mutually exclusive business capabilities. Analytics, AI, integration and experience enable other capabilities. The 12 architecture views and seven enterprise streams are separate classification axes.
+
+## Student resources
+[13 Google Docs, 13 Slides decks and 13 Sheets decoders](student-resources.md), with individual copy links and access setup instructions. Manual publication; student access setup remains pending.

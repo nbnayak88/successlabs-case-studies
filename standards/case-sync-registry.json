@@ -36,6 +36,11 @@
       "id": "OTS",
       "root": "08-information-technology/omnitech-solutions-ltd",
       "page_id": "3f57a051ff8740d3bc46b102e2e7f211"
+    },
+    {
+      "id": "OCN",
+      "root": "09-communication-services/omniconnect-media-networks-ltd",
+      "page_id": "00cc6a07fc6d409192495674373006e6"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

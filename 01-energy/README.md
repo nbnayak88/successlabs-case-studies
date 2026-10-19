@@ -1,11 +1,7 @@
-# Energy
+# Energy — GICS01
 
-**GICS sector 01** — SuccessLabs Academy case-study library.
+## Published fictional case studies
 
-## Case studies
+- **[OmniVerse Energy Ltd. — Business Transformation Master](omniverse-energy-ltd/)** — 22-section executive master, hero story, 16 fictional personas, 12 Yoodli-ready scenarios, executive one-pager, seven derived streams and media placeholders.
 
-Case studies will be organized into separate provider or enterprise folders within this sector.
-
-## Case study template
-
-Each case study should document business context, business lines, capabilities, architecture, transformation initiatives, learning labs, and references. Mark fictional or illustrative details explicitly.
+**Governance:** GitHub is the source of truth; Notion is the downstream knowledge-management hub; LMS embeds approved resources. Automatic synchronization is not yet configured.

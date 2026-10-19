@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "created": "2026-10-19",
+  "student_access": "restricted_owner_access_pending_sharing",
+  "student_copy_test": "not_executed",
+  "sync": "manual_derivatives_unattended_sync_unverified",
+  "index_url": "https://docs.google.com/document/d/1Jbrsu4PkFBR0dNJ7NELR13d5pk-2mCAeWopOH59kWKk/edit",
+  "folder_url": "https://drive.google.com/drive/folders/1b1I1alA40GKiy-1qPgbctbQsKrNrBCVO",
+  "resources": [
+    {
+      "code": "HR01",
+      "title": "Workforce foundation",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr01-workforce-foundation.md",
+      "source_blob": "55e83ad3ab1f04472f41e9715a0acaadd09ff97a",
+      "doc": "https://docs.google.com/document/d/1SoKv5M53sTQru3t4j9Wh63Nltl5p9Xm8oGEBvrRbuZQ/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1XfFnVh1FeGPh8fhoMj-k6EEuCw-LG3RkQgAarC_pcIo/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1kyUYuES2wkH41d4AIQutgJjdIzxYbgY1nkmh2g-Md6k/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1SoKv5M53sTQru3t4j9Wh63Nltl5p9Xm8oGEBvrRbuZQ/copy",
+        "slide": "https://docs.google.com/presentation/d/1XfFnVh1FeGPh8fhoMj-k6EEuCw-LG3RkQgAarC_pcIo/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1kyUYuES2wkH41d4AIQutgJjdIzxYbgY1nkmh2g-Md6k/copy"
+      }
+    },
+    {
+      "code": "HR02a",
+      "title": "Talent acquisition",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr02a-recruiting.md",
+      "source_blob": "bc83faa11290d7f726f55197b697d670fe204345",
+      "doc": "https://docs.google.com/document/d/13FVXzIhfdDvF0T6p6xmAWPG9TdJPISlgw4EtqE-VL4Y/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1bQCCy8GOiOct0gFOZV2NQgkyi_JdFuG3NSNz7mJIr2k/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1pHR7__U680FO7lErw3QbaUhKwCoDhLVlJBqI7l7NDW4/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/13FVXzIhfdDvF0T6p6xmAWPG9TdJPISlgw4EtqE-VL4Y/copy",
+        "slide": "https://docs.google.com/presentation/d/1bQCCy8GOiOct0gFOZV2NQgkyi_JdFuG3NSNz7mJIr2k/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1pHR7__U680FO7lErw3QbaUhKwCoDhLVlJBqI7l7NDW4/copy"
+      }
+    },
+    {
+      "code": "HR02b",
+      "title": "Workforce readiness and onboarding",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr02b-onboarding.md",
+      "source_blob": "baf1564d258ce7abd929c2386ec32e856cfb8abb",
+      "doc": "https://docs.google.com/document/d/16Vd26Y2K0qn5yxya6A751wtkdr_eVO1eO1OYB9UzxOk/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1EeJq42ECaUh1OgLHpkD4vppfgQt8fUlPj-e5IaXwzbQ/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1exDzeTXzCjDE80BiWg5KDuVAPGV9mfjyEIYVE0kULAY/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/16Vd26Y2K0qn5yxya6A751wtkdr_eVO1eO1OYB9UzxOk/copy",
+        "slide": "https://docs.google.com/presentation/d/1EeJq42ECaUh1OgLHpkD4vppfgQt8fUlPj-e5IaXwzbQ/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1exDzeTXzCjDE80BiWg5KDuVAPGV9mfjyEIYVE0kULAY/copy"
+      }
+    },
+    {
+      "code": "HR03",
+      "title": "Performance and goals",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr03-performance-goals.md",
+      "source_blob": "f58f065df4683099e1ab99fed7bd97d131b4d405",
+      "doc": "https://docs.google.com/document/d/1QhvNnjX-vDUJVg2WaCgw_T0pHuMjfDew5ZrQAtPxsY8/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1GC4OHBW4lrxlFKk9PpYpM0mNdreagutWBbm2uITTy-U/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1HHYNGj6efhDGSlSglGbvu3pGUK-FJQ_dS0OYcwuSJX8/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1QhvNnjX-vDUJVg2WaCgw_T0pHuMjfDew5ZrQAtPxsY8/copy",
+        "slide": "https://docs.google.com/presentation/d/1GC4OHBW4lrxlFKk9PpYpM0mNdreagutWBbm2uITTy-U/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1HHYNGj6efhDGSlSglGbvu3pGUK-FJQ_dS0OYcwuSJX8/copy"
+      }
+    },
+    {
+      "code": "HR04",
+      "title": "Succession and development",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr04-succession-development.md",
+      "source_blob": "73717d8971bfb348f7c8aca7b3c21a89bd1dee79",
+      "doc": "https://docs.google.com/document/d/1imQKRBO1WjKM3_Rns23QPYa-0uHCxz2LU6WtYHI4o3k/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1_eGlRxX2Qb9a_DYR6KTdCM4UYBi_vquzoJKdYw-o--g/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1qcYubK1_0R6eRwmzqtm0bgq0VgtetnRJzhY4l5-yU2k/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1imQKRBO1WjKM3_Rns23QPYa-0uHCxz2LU6WtYHI4o3k/copy",
+        "slide": "https://docs.google.com/presentation/d/1_eGlRxX2Qb9a_DYR6KTdCM4UYBi_vquzoJKdYw-o--g/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1qcYubK1_0R6eRwmzqtm0bgq0VgtetnRJzhY4l5-yU2k/copy"
+      }
+    },
+    {
+      "code": "HR05",
+      "title": "Compensation and variable pay",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr05-rewards-variable-pay.md",
+      "source_blob": "47b36a0aeff3fc5409804e7da348e9c7bc2a1d38",
+      "doc": "https://docs.google.com/document/d/1S3ezmxQivMjGRWd7neIaOIJl2ukKBQTCYmE3gS_uPSA/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/12kb5lTzp60sVJB6xeKSc4zq-KcesH_CDjdRz-WoOrk8/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/14Jc5QPH5d0346Jb_vIkgtfzP3A70Yr8rjibkhpd6rn0/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1S3ezmxQivMjGRWd7neIaOIJl2ukKBQTCYmE3gS_uPSA/copy",
+        "slide": "https://docs.google.com/presentation/d/12kb5lTzp60sVJB6xeKSc4zq-KcesH_CDjdRz-WoOrk8/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/14Jc5QPH5d0346Jb_vIkgtfzP3A70Yr8rjibkhpd6rn0/copy"
+      }
+    },
+    {
+      "code": "HR06",
+      "title": "Learning and internal mobility",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr06-learning-mobility.md",
+      "source_blob": "e5f505cb8ade5e77699c84d16709c156fa727414",
+      "doc": "https://docs.google.com/document/d/1EfJPlAtD8wJzz_P70z37a3_zhCz1RUGGYbdMbUOaxfE/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/13Kcuf2-O3M4x-ggUf3tUBGhIgPtPLdDABxnsZrFV3ks/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1jF14TY3tYT1x0XF23vks-M-PU2Ff8VHvjEvd_KcZPZU/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1EfJPlAtD8wJzz_P70z37a3_zhCz1RUGGYbdMbUOaxfE/copy",
+        "slide": "https://docs.google.com/presentation/d/13Kcuf2-O3M4x-ggUf3tUBGhIgPtPLdDABxnsZrFV3ks/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1jF14TY3tYT1x0XF23vks-M-PU2Ff8VHvjEvd_KcZPZU/copy"
+      }
+    },
+    {
+      "code": "HR07",
+      "title": "Payroll",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr07-payroll.md",
+      "source_blob": "4e2677ab642c1d274eefcb01f1b1354c71b92d3b",
+      "doc": "https://docs.google.com/document/d/1sC6hCl09SA_hqQQXMKJTkk7JEOk0kUP6QjI3n1jXKS0/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1Ha-IugeGL2nKlTkC8yh9X2T9VEoqUyec7GKZEin1FwQ/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1CtXgCQPLm5MhvE190rW7V3IuGanrDsYLcDSebpPzsGA/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1sC6hCl09SA_hqQQXMKJTkk7JEOk0kUP6QjI3n1jXKS0/copy",
+        "slide": "https://docs.google.com/presentation/d/1Ha-IugeGL2nKlTkC8yh9X2T9VEoqUyec7GKZEin1FwQ/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1CtXgCQPLm5MhvE190rW7V3IuGanrDsYLcDSebpPzsGA/copy"
+      }
+    },
+    {
+      "code": "HR08",
+      "title": "Time and absence",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr08-time-absence.md",
+      "source_blob": "81c642979ca47a58f4554fdb733bfae9d8ae5693",
+      "doc": "https://docs.google.com/document/d/1UolS-4LrCh-NIh1KRfNfj9SdYmmhhus3jTvYGZrIVMY/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/17T3_NjL0s_T8IEEPVpC-WjLyl01aoDPWQuwIenEs8xs/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1vk8QTb5jxuQhqfzByDmM842hhCbW2r-VMs-ii5YCq_8/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1UolS-4LrCh-NIh1KRfNfj9SdYmmhhus3jTvYGZrIVMY/copy",
+        "slide": "https://docs.google.com/presentation/d/17T3_NjL0s_T8IEEPVpC-WjLyl01aoDPWQuwIenEs8xs/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1vk8QTb5jxuQhqfzByDmM842hhCbW2r-VMs-ii5YCq_8/copy"
+      }
+    },
+    {
+      "code": "HR09",
+      "title": "Workforce intelligence",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr09-people-analytics.md",
+      "source_blob": "f68eacee135ef296868c89a1b14ddf9b517b4de0",
+      "doc": "https://docs.google.com/document/d/1pblsvxD2KxILxhGsA9DtV9OZzhYlaqwKS-v-tD1CySA/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/11QAfCbPjK6rpUJFX2ffCe3dMhiDXksw5fPGsu_V1Jtk/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1iLckp0ZziLhLu5g9oXDbBi52oyw2ppb-S6I35m1vV7M/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1pblsvxD2KxILxhGsA9DtV9OZzhYlaqwKS-v-tD1CySA/copy",
+        "slide": "https://docs.google.com/presentation/d/11QAfCbPjK6rpUJFX2ffCe3dMhiDXksw5fPGsu_V1Jtk/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1iLckp0ZziLhLu5g9oXDbBi52oyw2ppb-S6I35m1vV7M/copy"
+      }
+    },
+    {
+      "code": "HR10",
+      "title": "Digital employee experience",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr10-employee-experience.md",
+      "source_blob": "c7dad0891d01b74944fd549a4c5a3a121dbecb72",
+      "doc": "https://docs.google.com/document/d/1UIRMN4a223MH7u0GUEKKRHbK_A82n8rKY2VquzTRdHs/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1MGF1SwMM0E8ftVKXukyp84O_1WeRnHYLgNLKKEjyplg/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1bUw64FUaYB0gYQoTFXaf11N524EhJb4pn1sTeuk4_FY/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1UIRMN4a223MH7u0GUEKKRHbK_A82n8rKY2VquzTRdHs/copy",
+        "slide": "https://docs.google.com/presentation/d/1MGF1SwMM0E8ftVKXukyp84O_1WeRnHYLgNLKKEjyplg/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1bUw64FUaYB0gYQoTFXaf11N524EhJb4pn1sTeuk4_FY/copy"
+      }
+    },
+    {
+      "code": "HR11",
+      "title": "Responsible HR AI and automation",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr11-responsible-ai.md",
+      "source_blob": "25d985586bd74a6ff2f86468673dd37928f4bf20",
+      "doc": "https://docs.google.com/document/d/1UXznKBK67XdYtH1m5gbP2rwOabRvyuBguIglAKit4js/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1hn0knI6Zsjlb2EQajk3YsVB0fagfz5ucl5LohsRNAQc/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1N7IS0wWtfbYBl4qWTgNX3CyLPEgpHS-Kgn7aHRvM-ZA/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1UXznKBK67XdYtH1m5gbP2rwOabRvyuBguIglAKit4js/copy",
+        "slide": "https://docs.google.com/presentation/d/1hn0knI6Zsjlb2EQajk3YsVB0fagfz5ucl5LohsRNAQc/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1N7IS0wWtfbYBl4qWTgNX3CyLPEgpHS-Kgn7aHRvM-ZA/copy"
+      }
+    },
+    {
+      "code": "HR12",
+      "title": "HR integration and data flows",
+      "source": "https://github.com/nbnayak88/successlabs-case-studies/blob/main/01-energy/omniverse-energy-ltd/derived-streams/hr/hr12-hr-integration.md",
+      "source_blob": "dfc194eef36133ebe3695ea8e8bc26beca12292a",
+      "doc": "https://docs.google.com/document/d/1o6Ym52vwRmLil9GutmeSJ_Ugu-4qNTgEbuaOZgj-9e8/edit?usp=drivesdk",
+      "slides": "https://docs.google.com/presentation/d/1chq13pSoNbS5oO9CGQp1hTmMCJ289P13ssMcAZyjefk/edit?usp=drivesdk",
+      "sheets": "https://docs.google.com/spreadsheets/d/1I5_Jgbs7wCTc5cDw2yJVVClG8HkVS4DK1CnjPDDVT1c/edit?usp=drivesdk",
+      "copy": {
+        "doc": "https://docs.google.com/document/d/1o6Ym52vwRmLil9GutmeSJ_Ugu-4qNTgEbuaOZgj-9e8/copy",
+        "slide": "https://docs.google.com/presentation/d/1chq13pSoNbS5oO9CGQp1hTmMCJ289P13ssMcAZyjefk/copy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1I5_Jgbs7wCTc5cDw2yJVVClG8HkVS4DK1CnjPDDVT1c/copy"
+      }
+    }
+  ]
+}

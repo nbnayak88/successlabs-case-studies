@@ -1,6 +1,6 @@
 # OVE-HR09 — Workforce intelligence
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR09
 

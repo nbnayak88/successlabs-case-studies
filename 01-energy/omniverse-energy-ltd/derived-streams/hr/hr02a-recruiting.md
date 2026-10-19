@@ -1,6 +1,6 @@
 # OVE-HR02a — Talent acquisition
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR02a
 

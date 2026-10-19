@@ -1,6 +1,6 @@
 # OVE-HR10 — Digital employee experience
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR10
 

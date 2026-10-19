@@ -1,6 +1,6 @@
 # OVE-HR08 — Time and absence
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR08
 

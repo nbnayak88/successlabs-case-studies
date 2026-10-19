@@ -1,6 +1,6 @@
 # OVE-HR05 — Compensation and variable pay
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR05
 

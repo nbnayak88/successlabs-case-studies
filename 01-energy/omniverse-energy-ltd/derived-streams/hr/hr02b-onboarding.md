@@ -1,6 +1,6 @@
 # OVE-HR02b — Workforce readiness and onboarding
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR02b
 

@@ -1,6 +1,6 @@
 # OVE-HR04 — Succession and development
 
-[HR studio](README.md) · [Enterprise master](../../../master/README.md)
+[HR studio](README.md) · [Enterprise master](../../master/README.md)
 
 ## Canonical HR expansion — OVE-HR04
 

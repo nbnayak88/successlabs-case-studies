@@ -1,6 +1,6 @@
 # OmniVerse — Resources and Media Registry
 
-**Placeholders only; none of these assets has been created or connected yet.** Populate URLs after publication and quality review.
+**External learning media remain planned.** The existing Notion narrative has been reconciled; scheduled execution is not yet verified. Populate media URLs after publication and quality review.
 
 | ID | Platform | Planned deliverable | Status | Link |
 |---|---|---|---|---|
@@ -10,7 +10,7 @@
 | OVE-R04 | Yoodli AI | CEO discovery simulation | Planned | TBD |
 | OVE-R05 | Yoodli AI | Benefits and variable-pay stakeholder simulations | Planned | TBD |
 | OVE-R06 | PowerPoint | Editable executive briefing | Planned | TBD |
-| OVE-R07 | Notion | Narrative knowledge-management hub | Existing source; new GitHub-first sync not yet performed | [Original Notion page](https://app.notion.com/p/377ce6de608980daae89e74da8236287) |
+| OVE-R07 | Notion | Narrative knowledge-management hub | Narrative reconciled and manually read back; daily task configured, unattended execution unverified | [Original Notion page](https://app.notion.com/p/377ce6de608980daae89e74da8236287) |
 | OVE-R08 | Miro / FigJam | Energy capability and value-stream workshop | Planned | TBD |
 | OVE-R09 | ArchiMate | Energy business/data/application/technology views | Planned | TBD |
 | OVE-R10 | LMS HUB / SCHOOL | Embedded case and simulation lessons | Planned | TBD |
@@ -24,4 +24,4 @@
 Energy value chains, business capabilities, safe IT/OT architecture, data stewardship, strategy options, financial assumptions, stakeholder choices and transformation KPIs.
 
 ## Source-control rule
-GitHub → Notion → LMS; record GitHub source commit and version on derivatives. Notion sync is **manual until automation is explicitly implemented**.
+GitHub → Notion → LMS; record GitHub source commit and version on derivatives. See [sync protocol](../sync/README.md). Manual transfers verified; the daily reconciliation task is configured but unattended integration remains unverified.

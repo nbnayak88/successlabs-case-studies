@@ -41,6 +41,11 @@
       "id": "OCN",
       "root": "09-communication-services/omniconnect-media-networks-ltd",
       "page_id": "00cc6a07fc6d409192495674373006e6"
+    },
+    {
+      "id": "OGU",
+      "root": "10-utilities/omnigrid-utilities-ltd",
+      "page_id": "54586cda6f744a6f8e0d96f674a7ddb0"
     }
   ],
   "policy": "Load each case sync/README.md and sync/state.json; never share baselines or auto-resolve conflicts."

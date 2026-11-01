@@ -18,3 +18,9 @@
 14. [🚀 Workforce Monday — OmniConnect Media & Networks Ltd. \| 13-Framework HR Transformation Journey](https://app.notion.com/p/3d0ce6de608981f99ee0c131e6873534)
 
 [Workforce](../derived-streams/01-workforce.md)
+
+## Learning publication review — 1 November 2026 IST
+
+The 13 HR source pages were read for the GICS09 HR01–HR12 Origin Story publication. Original page identities and supporting case bodies were preserved. Twelve new learning sprints were added; HR02a holds the combined Recruiting/Onboarding sprint and HR02b adds companion navigation. This supersedes the earlier unaudited-child-content status for this learning review only; implementation and operational outcomes remain unvalidated.
+
+[Common learning index and 36 native Google Drive companions](https://github.com/nbnayak88/learning-township/blob/main/01-HR-Human-Capital-Capability-Academy-Workforce-Monday/communication-services-origin-stories.md). HR09 has one located People Analytics source; a second requested case remains not located.
